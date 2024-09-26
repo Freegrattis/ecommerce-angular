@@ -32,7 +32,7 @@ Este projeto foi desenvolvido utilizando **Angular CLI version 18.2.4** com o ob
 3. Instale as dependências:  
    ```bash
    npm install
-4. - **Executar Servidor**:
+4. Executar Servidor:
      ```bash
      ng serve
 
