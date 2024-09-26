@@ -1,22 +1,40 @@
-# ecommerce-angular
-Este projeto foi desenvolvido com Angular CLI version 18.2.4.
+# Angular Project - Prática de Conhecimentos
 
-O projeto foi desenvolvido afim de praticar meus conhecimentos na tecnologia Angular.
+Este projeto foi desenvolvido utilizando **Angular CLI version 18.2.4** com o objetivo de praticar e aprimorar meus conhecimentos na tecnologia Angular.
 
-Comandos Uteis
-  -Gerar Componente = ng g c NomePasta/NomePasta;
-  -Criar Novo projeto = ng n NomeProjeto;
-  -Gerar Servico = ng g s NomePasta/NomePasta/NomePasta;
-  -Executar servidor = ng serve.
+## Funcionalidades
 
-Password Access
-    -Username: emilys;
-    -Password: emilyspass.
+- **Login de Usuário**: Implementação de autenticação via API externa.
+- **Gestão de Produtos**: Consumo de uma API de produtos para exibição e manipulação de dados.
 
+## APIs Utilizadas
 
-Link para API de Login
-  -'https://dummyjson.com/auth/login'.
+- **API de Login**: [https://dummyjson.com/auth/login](https://dummyjson.com/auth/login)
+- **API de Produtos**: [https://dummyjson.com/products](https://dummyjson.com/products)
 
-Link para API de Produtos
-  -'https://dummyjson.com/products'.
+## Como Executar o Projeto
 
+### Pré-requisitos
+
+- Node.js instalado em sua máquina
+- Angular CLI 18.2.4
+
+### Comandos Úteis
+
+- **Gerar Componente**: `ng g c NomePasta/NomePasta`
+- **Criar Novo Projeto**: `ng n NomeProjeto`
+- **Gerar Serviço**: `ng g s NomePasta/NomePasta/NomePasta`
+- **Executar Servidor**: `ng serve`
+
+### Executando o Projeto Localmente
+
+1. Clone o repositório.
+2. Navegue até a pasta do projeto.
+3. Instale as dependências:  
+   ```bash
+   npm install
+
+### Acesso
+
+- **Username: emilys**
+- **Password: emilyspass**
