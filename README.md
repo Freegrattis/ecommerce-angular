@@ -24,7 +24,6 @@ Este projeto foi desenvolvido utilizando **Angular CLI version 18.2.4** com o ob
 - **Gerar Componente**: `ng g c NomePasta/NomePasta`
 - **Criar Novo Projeto**: `ng n NomeProjeto`
 - **Gerar Serviço**: `ng g s NomePasta/NomePasta/NomePasta`
-- **Executar Servidor**: `ng serve`
 
 ### Executando o Projeto Localmente
 
@@ -33,6 +32,9 @@ Este projeto foi desenvolvido utilizando **Angular CLI version 18.2.4** com o ob
 3. Instale as dependências:  
    ```bash
    npm install
+4. - **Executar Servidor**:
+     ```bash
+     ng serve
 
 ### Acesso
 
